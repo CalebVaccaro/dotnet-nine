@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-nine", "dotnet-nine\dotnet-nine.csproj", "{1657733B-4B5E-43CC-8EB8-47783F99E931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-nine-tests", "dotnet-nine-tests\dotnet-nine-tests.csproj", "{3B4AC3CE-ECCC-4843-B420-9778B8D95890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-nine-webapi", "dotnet-nine-webapi\dotnet-nine-webapi.csproj", "{01363BEF-51AB-4894-94CC-FACF66D4951D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotnet-nine", "dotnet-nine", "{C3A94F3C-CB84-4770-9C9D-274337EE01AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1657733B-4B5E-43CC-8EB8-47783F99E931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1657733B-4B5E-43CC-8EB8-47783F99E931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1657733B-4B5E-43CC-8EB8-47783F99E931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1657733B-4B5E-43CC-8EB8-47783F99E931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4AC3CE-ECCC-4843-B420-9778B8D95890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4AC3CE-ECCC-4843-B420-9778B8D95890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4AC3CE-ECCC-4843-B420-9778B8D95890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4AC3CE-ECCC-4843-B420-9778B8D95890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01363BEF-51AB-4894-94CC-FACF66D4951D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01363BEF-51AB-4894-94CC-FACF66D4951D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01363BEF-51AB-4894-94CC-FACF66D4951D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01363BEF-51AB-4894-94CC-FACF66D4951D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
